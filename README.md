@@ -5,7 +5,7 @@ This tool is designed to be used with, and requires the download of, a free Unit
     https://assetstore.unity.com/packages/tools/integration/csv-serialize-135763
     
 ## To Set Up:
-- Import the `CSV Serialize` package
+- Import the `CSV Serialize` package. You should only need the `CSVSerializer.cs` file from it.
     - This can be done through the [Unity Asset Store](https://assetstore.unity.com/packages/tools/integration/csv-serialize-135763), by clicking `Add to My Assets` and then `Open In Unity`
     - Alternatively, if you've already added it to your assets in the Asset Store: `Window -> Package Manger`, selecting `Packages: My Assets`. Find `CSV Serialize` from the list, then click `Import` in the bottom right
 - Add TextMeshPro to your Unity Project
