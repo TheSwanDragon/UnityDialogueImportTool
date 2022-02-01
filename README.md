@@ -10,7 +10,7 @@ This tool is designed to be used with, and requires the download of, a free Unit
     - Alternatively, if you've already added it to your assets in the Asset Store: `Window -> Package Manger`, selecting `Packages: My Assets`. Find `CSV Serialize` from the list, then click `Import` in the bottom right
 - Add TextMeshPro to your Unity Project
     - This can be done by going to `GameObject -> UI -> "Text - TextMeshPro"`, then clicking `Import` on the popup that appears
-- Import the `DialogueImportTool.unitypackage`. You _**do not**_ need to download any other files from this repository—the source code is included here for convenience.
+- Import the `DialogueLineImporter.unitypackage`. You _**do not**_ need to download any other files from this repository—the source code is included here for convenience.
 
 ## To Use:
 - Save your dialogue spreadsheet as `"<FileName>AF.csv"`. The spreadsheet must be using the same column format as the included example.
