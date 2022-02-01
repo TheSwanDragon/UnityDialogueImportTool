@@ -1,0 +1,333 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09aa7a2cca064e048a320f86de5aeafd, type: 3}
+  m_Name: TemplateAF
+  m_EditorClassIdentifier: 
+  m_LatestPath: Assets/DialogueImport/TemplateAF.asset
+  m_Lines:
+  - m_LineID: 100
+    m_Story: Oni
+    m_Section: Preamble
+    m_Character: Kevin
+    m_Line: I didn't even need to press refresh
+    m_VoiceDirection: Ecstatic
+    m_Triggered: Refreshing the asset
+    m_Context: 
+    m_Label: 100
+  - m_LineID: 101
+    m_Story: Oni
+    m_Section: Prolog
+    m_Character: Shoki
+    m_Line: Shoki here. Yes. I understand. Keep Calm. We'll be there soon.
+    m_VoiceDirection: All business, answering phone.
+    m_Triggered: Start of story
+    m_Context: In Shoki's library at night, the towering bookshelves are lit with
+      candles in sconces and a chandelier.
+    m_Label: 101
+  - m_LineID: 102
+    m_Story: Oni
+    m_Section: Prolog
+    m_Character: Lucy
+    m_Line: Not such a quiet evening after all!
+    m_VoiceDirection: Distracted. Still reading her book.
+    m_Triggered: Next
+    m_Context: 
+    m_Label: 102
+  - m_LineID: 103
+    m_Story: Oni
+    m_Section: Prolog
+    m_Character: Shoki
+    m_Line: Downtown. A maintenance chief just had a conversation with a worker who
+      died on site fifteen years ago. He's a little upset.
+    m_VoiceDirection: 
+    m_Triggered: Next
+    m_Context: 
+    m_Label: 103
+  - m_LineID: 104
+    m_Story: Oni
+    m_Section: Prolog
+    m_Character: Lucy
+    m_Line: I thought we didn't do hauntings.
+    m_VoiceDirection: Cautious. Paying full attention now.
+    m_Triggered: Next
+    m_Context: 
+    m_Label: 104
+  - m_LineID: 105
+    m_Story: Oni
+    m_Section: Prolog
+    m_Character: Shoki
+    m_Line: We don't. At the end of their conversation the "ghost" turned into a
+      rat and ran away.
+    m_VoiceDirection: 
+    m_Triggered: Next
+    m_Context: 
+    m_Label: 105
+  - m_LineID: 106
+    m_Story: Oni
+    m_Section: Prolog
+    m_Character: Lucy
+    m_Line: Okay. that's weird. Can I drive?
+    m_VoiceDirection: Deadpan.
+    m_Triggered: Next
+    m_Context: 
+    m_Label: 106
+  - m_LineID: 107
+    m_Story: Oni
+    m_Section: Prolog
+    m_Character: Shoki
+    m_Line: Only if you stay off the freeway.
+    m_VoiceDirection: Cautious.
+    m_Triggered: Next
+    m_Context: 
+    m_Label: 107
+  - m_LineID: 108
+    m_Story: Oni
+    m_Section: Prolog
+    m_Character: Lucy
+    m_Line: It's a deal.
+    m_VoiceDirection: Excited.
+    m_Triggered: Next
+    m_Context: 
+    m_Label: 108
+  - m_LineID: 109
+    m_Story: Oni
+    m_Section: Driving 1
+    m_Character: Shoki
+    m_Line: '[Whistles a dog summons] Come on, Kyrie.'
+    m_VoiceDirection: 
+    m_Triggered: Car door opens
+    m_Context: Shoki lets Lucy drive the car. (cont)
+    m_Label: 109
+  - m_LineID: 110
+    m_Story: Oni
+    m_Section: Driving 1
+    m_Character: Lucy
+    m_Line: Oh neat. Backup.
+    m_VoiceDirection: Deadpan.
+    m_Triggered: Dire hound arrives.
+    m_Context: 
+    m_Label: 110
+  - m_LineID: 111
+    m_Story: Oni
+    m_Section: Driving 1
+    m_Character: Shoki
+    m_Line: She likes rats.
+    m_VoiceDirection: 
+    m_Triggered: Next
+    m_Context: 
+    m_Label: 111
+  - m_LineID: 112
+    m_Story: Oni
+    m_Section: Driving 1
+    m_Character: Lucy
+    m_Line: Welcome to the Lucy express. Please keep hands, noses and tails inside
+      the vehicle at all times and be prepared for sudden stops, sharp corners and
+      the occasional collision
+    m_VoiceDirection: 
+    m_Triggered: Engine starts
+    m_Context: 
+    m_Label: 112
+  - m_LineID: 113
+    m_Story: Oni
+    m_Section: Driving 1
+    m_Character: Shoki
+    m_Line: Erm
+    m_VoiceDirection: 
+    m_Triggered: Sharp corner - random
+    m_Context: 
+    m_Label: 113
+  - m_LineID: 114
+    m_Story: Oni
+    m_Section: Driving 1
+    m_Character: Shoki
+    m_Line: Ung
+    m_VoiceDirection: 
+    m_Triggered: Sharp corner - random
+    m_Context: 
+    m_Label: 114
+  - m_LineID: 115
+    m_Story: Oni
+    m_Section: Driving 1
+    m_Character: Shoki
+    m_Line: Careful!
+    m_VoiceDirection: 
+    m_Triggered: Sharp corner - random
+    m_Context: 
+    m_Label: 115
+  - m_LineID: 116
+    m_Story: Oni
+    m_Section: Driving 1
+    m_Character: Shoki
+    m_Line: '[Sharp intake of breath through teeth]'
+    m_VoiceDirection: 
+    m_Triggered: Sharp corner - random
+    m_Context: 
+    m_Label: 116
+  - m_LineID: 117
+    m_Story: Oni
+    m_Section: Driving 1
+    m_Character: Shoki
+    m_Line: 'No, left. Left. Your other left. '
+    m_VoiceDirection: Steel calm.
+    m_Triggered: Wrong turn - right - random
+    m_Context: 
+    m_Label: 117
+  - m_LineID: 121
+    m_Story: Oni
+    m_Section: Driving 1
+    m_Character: Shoki
+    m_Line: Right. Go right. The...right.
+    m_VoiceDirection: Slightly agitated
+    m_Triggered: Wrong turn - left - random
+    m_Context: 
+    m_Label: 121
+  - m_LineID: 122
+    m_Story: Oni
+    m_Section: Driving 1
+    m_Character: Shoki
+    m_Line: But...back that way.
+    m_VoiceDirection: Slightly confused
+    m_Triggered: Wrong turn - left - random
+    m_Context: 
+    m_Label: 122
+  - m_LineID: 123
+    m_Story: Oni
+    m_Section: Driving 1
+    m_Character: Shoki
+    m_Line: 'Okay, that''s not right. '
+    m_VoiceDirection: Calm.
+    m_Triggered: Wrong turn - left - random
+    m_Context: 
+    m_Label: 123
+  - m_LineID: 128
+    m_Story: Oni
+    m_Section: Driving 1
+    m_Character: Shoki
+    m_Line: Annnnnnd...forward
+    m_VoiceDirection: 
+    m_Triggered: Car pauses too long
+    m_Context: 
+    m_Label: 128
+  - m_LineID: 129
+    m_Story: Oni
+    m_Section: Driving 1
+    m_Character: Shoki
+    m_Line: Go.
+    m_VoiceDirection: 
+    m_Triggered: Car pauses too long
+    m_Context: 
+    m_Label: 129
+  - m_LineID: 130
+    m_Story: Oni
+    m_Section: Driving 1
+    m_Character: Shoki
+    m_Line: Foot on the gas, not the brake.
+    m_VoiceDirection: 
+    m_Triggered: Car pauses too long
+    m_Context: 
+    m_Label: 130
+  - m_LineID: 131
+    m_Story: Oni
+    m_Section: Driving 1
+    m_Character: Shoki
+    m_Line: Any time now.
+    m_VoiceDirection: 
+    m_Triggered: Car pauses too long
+    m_Context: 
+    m_Label: 131
+  - m_LineID: 132
+    m_Story: Oni
+    m_Section: Driving 1
+    m_Character: Shoki
+    m_Line: 'And we''re here. '
+    m_VoiceDirection: 
+    m_Triggered: Car arrives at destination
+    m_Context: 
+    m_Label: 132
+  - m_LineID: 133
+    m_Story: Oni
+    m_Section: Driving 1
+    m_Character: Lucy
+    m_Line: Weee!
+    m_VoiceDirection: 
+    m_Triggered: Car corners too tight
+    m_Context: 
+    m_Label: 133
+  - m_LineID: 134
+    m_Story: Oni
+    m_Section: Driving 1
+    m_Character: Lucy
+    m_Line: 'Um, I meant to do that. '
+    m_VoiceDirection: 
+    m_Triggered: Car collides with something
+    m_Context: 
+    m_Label: 134
+  - m_LineID: 137
+    m_Story: Oni
+    m_Section: Driving 1
+    m_Character: Lucy
+    m_Line: You have to admit it's more interesting my way.
+    m_VoiceDirection: 
+    m_Triggered: Car arrives at destination
+    m_Context: 
+    m_Label: 137
+  - m_LineID: 138
+    m_Story: Oni
+    m_Section: Driving 1
+    m_Character: Maintenance Chief
+    m_Line: Oh good, you're here. It's this way.
+    m_VoiceDirection: 
+    m_Triggered: Lucy and Shoki get out of car
+    m_Context: 
+    m_Label: 138
+  - m_LineID: 139
+    m_Story: Oni
+    m_Section: Editor 1
+    m_Character: Kevin
+    m_Line: This is testing adding a new line
+    m_VoiceDirection: Cautious, but excited
+    m_Triggered: Reimporting the dialogue
+    m_Context: Mid-day, music blasting between two monitors
+    m_Label: 139
+  m_LineKeys:
+  - 100
+  - 101
+  - 102
+  - 103
+  - 104
+  - 105
+  - 106
+  - 107
+  - 108
+  - 109
+  - 110
+  - 111
+  - 112
+  - 113
+  - 114
+  - 115
+  - 116
+  - 117
+  - 121
+  - 122
+  - 123
+  - 128
+  - 129
+  - 130
+  - 131
+  - 132
+  - 133
+  - 134
+  - 137
+  - 138
+  - 139
+  m_LineKeysInt: 6400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000790000007a0000007b00000080000000810000008200000083000000840000008500000086000000890000008a0000008b000000
